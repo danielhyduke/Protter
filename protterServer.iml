@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/log4j-1.2.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-lang-2.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-css.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-dom.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-gvt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-svg-dom.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-svggen.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-transcoder.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-util.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-xml.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/xml-apis-ext.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-anim.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-awt-util.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-bridge.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-ext.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-codec.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-parser.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/batik-script.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/pdf-transcoder.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/batik/pdfbox-1.8.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javax.mail-1.5.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/guava-11.0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/aopalliance-1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/commons-codec-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/commons-logging-1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/log4j-1.2.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/uniprotjapi.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/httpclient-4.3.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/httpcore-4.3.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/spring-aop-4.1.6.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/spring-beans-4.1.6.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/spring-context-4.1.6.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/spring-core-4.1.6.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/spring-expression-4.1.6.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/spring-jdbc-4.1.6.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/spring-orm-4.1.6.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/spring-test-4.1.6.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/spring-tx-4.1.6.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/spring-web-4.1.6.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/uniprotjapi/spring-webmvc-4.1.6.RELEASE.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.6" jdkType="JavaSDK" />
+    <orderEntry type="module-library" exported="">
+      <library name="log4j-1.2.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/log4j-1.2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-lang-2.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-lang-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-css.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-css.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-dom.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-dom.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-gvt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-gvt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-svg-dom.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-svg-dom.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-svggen.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-svggen.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-transcoder.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-transcoder.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-util.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-xml.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-xml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xml-apis-ext.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/xml-apis-ext.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-anim.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-anim.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-awt-util.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-awt-util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-bridge.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-bridge.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-ext.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-ext.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-codec.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-codec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-parser.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-parser.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="batik-script.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/batik-script.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pdf-transcoder.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/pdf-transcoder.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pdfbox-1.8.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/batik/pdfbox-1.8.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.mail-1.5.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javax.mail-1.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guava-11.0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/guava-11.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aopalliance-1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/aopalliance-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/commons-codec-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/commons-logging-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/log4j-1.2.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="uniprotjapi.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/uniprotjapi.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.3.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/httpclient-4.3.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.3.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/httpcore-4.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-aop-4.1.6.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/spring-aop-4.1.6.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-beans-4.1.6.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/spring-beans-4.1.6.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-context-4.1.6.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/spring-context-4.1.6.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-core-4.1.6.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/spring-core-4.1.6.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-expression-4.1.6.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/spring-expression-4.1.6.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-jdbc-4.1.6.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/spring-jdbc-4.1.6.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-orm-4.1.6.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/spring-orm-4.1.6.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-test-4.1.6.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/spring-test-4.1.6.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-tx-4.1.6.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/spring-tx-4.1.6.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-web-4.1.6.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/spring-web-4.1.6.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-webmvc-4.1.6.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/uniprotjapi/spring-webmvc-4.1.6.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

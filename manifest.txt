@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Class-Path: . protterServer_lib/log4j-1.2.15.jar protterServer_lib/com
+ mons-lang-2.6.jar protterServer_lib/batik-css.jar protterServer_lib/b
+ atik-dom.jar protterServer_lib/batik-gvt.jar protterServer_lib/batik-
+ svg-dom.jar protterServer_lib/batik-svggen.jar protterServer_lib/bati
+ k-transcoder.jar protterServer_lib/batik-util.jar protterServer_lib/b
+ atik-xml.jar protterServer_lib/xml-apis-ext.jar protterServer_lib/bat
+ ik-anim.jar protterServer_lib/batik-awt-util.jar protterServer_lib/ba
+ tik-bridge.jar protterServer_lib/batik-ext.jar protterServer_lib/bati
+ k-codec.jar protterServer_lib/batik-parser.jar protterServer_lib/bati
+ k-script.jar protterServer_lib/pdf-transcoder.jar protterServer_lib/p
+ dfbox-1.8.0.jar protterServer_lib/javax.mail-1.5.0.jar protterServer_
+ lib/guava-11.0.1.jar protterServer_lib/aopalliance-1.0.jar protterSer
+ ver_lib/commons-codec-1.4.jar protterServer_lib/commons-logging-1.0.j
+ ar protterServer_lib/log4j-1.2.9.jar protterServer_lib/uniprotjapi.ja
+ r protterServer_lib/httpclient-4.3.4.jar protterServer_lib/httpcore-4
+ .3.2.jar protterServer_lib/spring-aop-4.1.6.RELEASE.jar protterServer
+ _lib/spring-beans-4.1.6.RELEASE.jar protterServer_lib/spring-context-
+ 4.1.6.RELEASE.jar protterServer_lib/spring-core-4.1.6.RELEASE.jar pro
+ tterServer_lib/spring-expression-4.1.6.RELEASE.jar protterServer_lib/
+ spring-jdbc-4.1.6.RELEASE.jar protterServer_lib/spring-orm-4.1.6.RELE
+ ASE.jar protterServer_lib/spring-test-4.1.6.RELEASE.jar protterServer
+ _lib/spring-tx-4.1.6.RELEASE.jar protterServer_lib/spring-web-4.1.6.R
+ ELEASE.jar protterServer_lib/spring-webmvc-4.1.6.RELEASE.jar
+Main-Class: at.omasits.proteomics.protter.ProtterServer
+
